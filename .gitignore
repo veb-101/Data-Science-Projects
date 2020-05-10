@@ -123,6 +123,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-Basic/Stack Overflow survey analysis/data/so_survey_2019.pdf
-Basic/Stack Overflow survey analysis/data/survey_results_public.csv
-Basic/Stack Overflow survey analysis/data/survey_results_schema.csv
+Data Analysis and Preprocessing/Stack Overflow survey analysis/data/survey_results_public.csv
+Data Analysis and Preprocessing/Stack Overflow survey analysis/data/survey_results_schema.csv
