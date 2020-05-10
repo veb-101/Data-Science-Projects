@@ -52,7 +52,8 @@
 
 ## Additional resources
 
-- [ ] [A curated list of applied machine learning and data science notebooks and libraries across different industries.](https://github.com/firmai/industry-machine-learning)
-- [ ] [edyoda/data-science-complete-tutorial: For extensive instructor led learning](https://github.com/edyoda/data-science-complete-tutorial)
-- [ ] [Advanced Data Science - YouTube](https://www.youtube.com/playlist?list=PLegWUnz91Wftp1CsVFQaCgZAILUslEVhF)
-- [ ] [Data ScienceTutorial for Beginners | Kaggle](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners)
+- [A curated list of applied machine learning and data science notebooks and libraries across different industries.](https://github.com/firmai/industry-machine-learning)
+- [edyoda/data-science-complete-tutorial: For extensive instructor led learning](https://github.com/edyoda/data-science-complete-tutorial)
+- [Advanced Data Science - YouTube](https://www.youtube.com/playlist?list=PLegWUnz91Wftp1CsVFQaCgZAILUslEVhF)
+- [Data ScienceTutorial for Beginners | Kaggle](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners)
+- [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
