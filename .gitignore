@@ -123,5 +123,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-Data Cleaning and Preprocessing/Stack Overflow survey analysis/data/survey_results_public.csv
-Data Cleaning and Preprocessing/Stack Overflow survey analysis/data/survey_results_schema.csv
+
+Data Preprocessing, Cleaning & Transformation/Stack Overflow survey analysis/data/survey_results_schema.csv
+Data Preprocessing, Cleaning & Transformation/Stack Overflow survey analysis/data/survey_results_public.csv
