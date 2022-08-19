@@ -57,3 +57,6 @@
 - [Advanced Data Science - YouTube](https://www.youtube.com/playlist?list=PLegWUnz91Wftp1CsVFQaCgZAILUslEVhF)
 - [Data ScienceTutorial for Beginners | Kaggle](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners)
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+- [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/)
+- [Top Data Science Projects With Source Code](https://www.interviewbit.com/blog/data-science-projects/)
+- [Best Data Science Books for Beginners and Advanced Data Scientists](https://www.interviewbit.com/blog/data-science-books/)
