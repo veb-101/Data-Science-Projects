@@ -16,7 +16,7 @@ E[Step 4 : Perform EDA by visualizing the data] --> F[Step 5 : Train ML model us
 ```
 
 <ol>
-  <li><b><i>DATA COLLECTION</i></b> - The SONAR data used in the above project is collected from kaggle. <br>Link : https://tinyurl.com/ybm7fpwp<br>
+  <li><b><i>DATA COLLECTION</i></b> - The data used in the above project is collected from kaggle. <br>Link : https://tinyurl.com/ybm7fpwp<br>
   <li><b><i>SETTING UP WORKSPACE/ENVIRONMENT</i></b> - This basically means importing of all the required modules and importing the data.<br>
   Modules used in this project : 
   
