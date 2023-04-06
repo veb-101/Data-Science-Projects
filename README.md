@@ -57,3 +57,4 @@
 - [Advanced Data Science - YouTube](https://www.youtube.com/playlist?list=PLegWUnz91Wftp1CsVFQaCgZAILUslEVhF)
 - [Data ScienceTutorial for Beginners | Kaggle](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners)
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+- [Data science Interview Roadmap](https://medium.com/plumbersofdatascience/sql-for-data-science-interview-roadmap-be03aac4ae14)
